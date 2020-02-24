@@ -1,6 +1,7 @@
 Author: Despereaux #(Brian Dao)
 
-PingCheck help SysAdmin to get data quickly from IPAM and filter which IP is free or in used by ping. Then, in case IP blocked ICMP, this will continue check list IP free by netcat (Check Port Opened).
+PingCheck help SysAdmin to get data quickly from IPAM and filter which IP is free or in used by ping. 
+Then, in case IP blocked ICMP, this will continue check list IP free by netcat (Check Port Opened).
 
 
 USAGE:
